@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvishnudas_2003_docusaurus_site=self.webpackChunkvishnudas_2003_docusaurus_site||[]).push([[7438],{627:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/vishnudas2003-docusaurus-site/vishnudas2003-docusaurus-site/blog/tags/docusaurus","allTagsPath":"/vishnudas2003-docusaurus-site/vishnudas2003-docusaurus-site/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvishnudas_2003_docusaurus_site=self.webpackChunkvishnudas_2003_docusaurus_site||[]).push([[4558],{9526:s=>{s.exports=JSON.parse('{"permalink":"/vishnudas2003-docusaurus-site/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
